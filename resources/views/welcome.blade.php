@@ -13,7 +13,7 @@
 <body class="bg-[url('../../public/background.svg')]">
     <x-nav-bar></x-nav-bar>
     <div class="lg:w-full lg:h-screen lg:flex lg:justify-center lg:items-center gap-4">
-        <div class="bg-white w-1/2 h-1/5 p-40 rounded-xl">test</div>
+        <div class="bg-yellow-500 w-1/2 h-1/5 p-40 rounded-xl">test</div>
         <div class="bg-blue-900 w-1/3 h-1/5 p-40 rounded-xl ">test</div>
     </div>
 
